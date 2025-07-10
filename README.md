@@ -52,16 +52,7 @@ These allow you to observe the effect of optimizers and activation functions ind
 
 ---
 
-## 🧬 Project Structure
 
-```
-├── neural_network.py        # Main NN architecture and training logic
-├── activations.py           # Activation functions and their derivatives
-├── optimizers.py            # SGD, Adam, Adagrad, Adadelta, etc.
-├── run_experiments.py       # Training loop for all combinations
-├── visualizations.py        # Accuracy plots
-└── README.md                # Project overview
-```
 
 ---
 
